@@ -11,12 +11,18 @@ This project is a simple console-based To‑Do List application built in Python.
 
 ##  Tools & Technologies
 Python → The programming language used to build the app.
+
 VS Code / Terminal → For writing and running the code.
+
 Text File (tasks.txt)
 
 ## Core Concepts Applied
 Lists → To hold tasks in memory (append, pop, insert).
+
 File Handling → Using open() with modes (r, w, a) to read/write tasks.
+
 String Manipulation → .strip() to clean user input and file lines.
+
 Context Managers → with open(...) to safely handle files.
+
 Loops & Conditionals → To display menus and process user choices.
