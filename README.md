@@ -26,3 +26,6 @@ String Manipulation → .strip() to clean user input and file lines.
 Context Managers → with open(...) to safely handle files.
 
 Loops & Conditionals → To display menus and process user choices.
+
+## clone the repository
+git clone https://github.com/nandini1507/To-do-list.git
